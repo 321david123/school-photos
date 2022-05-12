@@ -1,0 +1,22 @@
+{
+  "name": "school-photos",
+  "version": "1.0.0",
+  "description": "4 fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/321david123/school-photos.git"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "David Martinez Rodriguez <ddmmrr2020@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/321david123/school-photos/issues"
+  },
+  "homepage": "https://github.com/321david123/school-photos#readme"
+}

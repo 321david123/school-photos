@@ -1,0 +1,44 @@
+:root {
+    --primary-color: ;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+li {
+    list-style: none;
+}
+.list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+a {
+    text-decoration: none;
+    font-size: 1.8rem;
+}
+.container {
+    margin-top: 7%;
+}
+.seccion1 {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    font-size: 1rem;
+}
+
+p {
+    margin: 5%;
+    font-size: 1.5rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cont {
+    text-align: center;
+}
+img {
+    width: 30rem;
+}
